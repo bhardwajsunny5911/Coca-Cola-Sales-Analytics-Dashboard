@@ -208,21 +208,33 @@ Through this project, I practiced:
 
 ### Executive Overview
 High-level business performance and KPIs.
+<img width="575" height="320" alt="Dashboard36 1" src="https://github.com/user-attachments/assets/eac8aad6-4506-4cab-895b-fe9ada5b6fef" />
+
 
 ### Sales Analytics
 Detailed sales trends, channels, products and revenue performance.
+<img width="570" height="320" alt="Dashboard36 2" src="https://github.com/user-attachments/assets/896fd292-7579-4ae4-b76c-0baf3b45318d" />
+
 
 ### Customer Insights
 Customer contribution, rankings and revenue distribution.
+<img width="572" height="317" alt="Dashboard36 5" src="https://github.com/user-attachments/assets/16287c51-e705-4ef7-adf1-407c3c70832f" />
+
 
 ### Product Insights
 Product sales, profitability and performance comparison.
+<img width="571" height="318" alt="Dashboard36 4" src="https://github.com/user-attachments/assets/8811b986-0a9e-458c-9a91-84686a4ff298" />
+
 
 ### Delivery Analytics
 Order fulfillment and delivery performance.
+<img width="567" height="317" alt="Dashboard36 3" src="https://github.com/user-attachments/assets/af76a6e2-a77c-435a-816b-cfe8aac58ed3" />
+
 
 ### Geographical Insights
 Regional and city-level sales analysis.
+<img width="568" height="318" alt="Dashboard36 6" src="https://github.com/user-attachments/assets/71a20880-7710-4cfb-af05-0b07d263e08d" />
+
 
 ---
 
