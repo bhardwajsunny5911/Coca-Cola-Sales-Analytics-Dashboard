@@ -232,7 +232,6 @@ Order fulfillment and delivery performance.
 
 
 ### Geographical Insights
-Regional and city-level sales analysis.
 <img width="568" height="318" alt="Dashboard36 6" src="https://github.com/user-attachments/assets/71a20880-7710-4cfb-af05-0b07d263e08d" />
 
 
